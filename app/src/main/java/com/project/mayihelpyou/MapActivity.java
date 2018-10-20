@@ -61,11 +61,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
 
-
-/*
- *  제작자 : Leth(decomposes@naver.com)
- *  사용 api : 카카오맵 api, 카카오지도 uri
- */
 public class MapActivity extends FragmentActivity implements  MapView.POIItemEventListener,MapView.MapViewEventListener,MapView.CurrentLocationEventListener
 {
     MapView mapView;
