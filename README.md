@@ -1,7 +1,8 @@
-# seoulApp
-'2018년 서울시 앱 공모전 출품작(헬프핑)'
-개발기간 : 2일
-
+Help_Ping (2018.09)
+=============
+<br><br>![Intro](/inImage/image.png)
+<br>Total Elapsed Time : 2 Day<br>
+Collaborator : [handwash](https://github.com/handwash)<br><br>
 #TODO
->> 처음부터 다시 설계<br>
->> 중복 함수 제거 및 객체화
+>> Rebuild<br>
+>> delete overlap function<br>
