@@ -6,3 +6,4 @@ Collaborator : [handwash](https://github.com/handwash)<br><br>
 #TODO
 >> Rebuild<br>
 >> delete overlap function<br>
+>> Create DB Server
